@@ -1,2 +1,4 @@
 rootProject.name = 'spring-security-stady-project'
+include 'rest'
+include 'common'
 
